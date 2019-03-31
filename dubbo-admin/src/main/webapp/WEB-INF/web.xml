@@ -4,6 +4,7 @@
          xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee  http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
 
     <!-- Webx Logging Settings -->
+    <display-name>dubbo-admin</display-name>
     <context-param>
         <param-name>loggingLevel</param-name>
         <param-value>INFO</param-value>
